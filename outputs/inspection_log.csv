@@ -1,0 +1,11 @@
+filename,predicted_class,confidence
+broken-bottle.jpg,chocolate sauce,0.4199
+pill-blister-packs-boken.jpg,pencil sharpener,0.2043
+broken-cable.jpg,whistle,0.1151
+circuit-components.jpg,lighter,0.2302
+bolt-failure.png,screw,0.9955
+pills-blister-pack.jpg,remote control,0.5651
+random-weird-nuts.jpg,dumbbell,0.8688
+plug-on-fire.jpg,spotlight,0.2793
+screws.jpg,screw,0.9930
+bottle-conveyor.jpg,cleaver,0.4906
